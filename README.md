@@ -18,6 +18,6 @@ gcc student_record.c -o student_record.exe
 1-Add, 2-Display, 3-Search, 4-Update, 5-Delete, 6-Sort, 7-Save & Exit
 
 **Demo Screenshot:**
-Add your demo screenshot here
+   ![Demo](Screenshot%202026-10-21%20202710.png)
 
 **Developed by:** Nikkhath | nikkhath-dev
